@@ -1,0 +1,11 @@
+CPI
+BTB Misses
+BTB Misses Pct
+Dcache avg miss latency
+Dcache miss rate
+Icache avg miss latency
+Icache miss rate
+L2 instr miss rate
+L2 data miss rate
+L2 instr miss latency
+L2 data miss latency
